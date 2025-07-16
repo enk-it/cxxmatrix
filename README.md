@@ -51,6 +51,16 @@ $ make
 $ ./cxxmatrix 'The Matrix' 'Reloaded'
 ```
 
+### For NixOS
+
+```bash
+$ git clone https://github.com/akinomyoga/cxxmatrix.git
+$ cd cxxmatrix
+$ nix develop
+$ make
+$ ./cxxmatrix 'The Matrix' 'Reloaded'
+```
+
 Quit: <kbd>C-c</kbd>; Suspend: <kbd>C-z</kbd>; Menu: <kbd>RET</kbd>, <kbd>C-m</kbd>
 
 
