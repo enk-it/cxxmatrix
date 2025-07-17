@@ -51,7 +51,9 @@ $ make
 $ ./cxxmatrix 'The Matrix' 'Reloaded'
 ```
 
-### For NixOS
+Quit: <kbd>C-c</kbd>; Suspend: <kbd>C-z</kbd>; Menu: <kbd>RET</kbd>, <kbd>C-m</kbd>
+
+**For NixOS**
 
 ```bash
 $ git clone https://github.com/akinomyoga/cxxmatrix.git
@@ -60,9 +62,6 @@ $ nix develop
 $ make
 $ ./cxxmatrix 'The Matrix' 'Reloaded'
 ```
-
-Quit: <kbd>C-c</kbd>; Suspend: <kbd>C-z</kbd>; Menu: <kbd>RET</kbd>, <kbd>C-m</kbd>
-
 
 **Compile MSYS2 binary (MSYS2 PTY) using MSYS2**
 
